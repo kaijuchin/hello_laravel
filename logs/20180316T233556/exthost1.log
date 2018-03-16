@@ -1,0 +1,38 @@
+[2018-03-16 23:36:00.034] [exthost1] [info] extension host started
+[2018-03-16 23:36:00.072] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-16 23:36:00.073] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-03-16 23:36:00.136] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-16 23:36:00.136] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-03-16 23:36:00.287] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-16 23:36:00.287] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-16 23:36:00.312] [exthost1] [info] eager extensions activated
+[2018-03-16 23:36:24.758] [exthost1] [info] extension host started
+[2018-03-16 23:36:24.788] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-16 23:36:24.788] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-03-16 23:36:24.850] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-16 23:36:24.850] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-03-16 23:36:24.978] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-16 23:36:24.978] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-16 23:36:24.993] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.sublime-keybindings {"startup":true,"activationEvent":"*"}
+[2018-03-16 23:36:24.993] [exthost1] [info] ExtensionService#loadCommonJSModule /home/kaijuchin/.vscode/extensions/ms-vscode.sublime-keybindings-3.0.3/extension
+[2018-03-16 23:36:24.994] [exthost1] [info] eager extensions activated
+[2018-03-16 23:36:29.485] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-03-16 23:36:29.485] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/out/extension
+[2018-03-16 23:36:29.498] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-03-16 23:36:29.498] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json/client/out/jsonMain
+[2018-03-16 23:36:39.808] [exthost1] [info] extension host started
+[2018-03-16 23:36:39.860] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-16 23:36:39.860] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-03-16 23:36:39.972] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-16 23:36:39.972] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-03-16 23:36:40.126] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-16 23:36:40.126] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-16 23:36:40.145] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.sublime-keybindings {"startup":true,"activationEvent":"*"}
+[2018-03-16 23:36:40.145] [exthost1] [info] ExtensionService#loadCommonJSModule /home/kaijuchin/.vscode/extensions/ms-vscode.sublime-keybindings-3.0.3/extension
+[2018-03-16 23:36:40.581] [exthost1] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":true,"activationEvent":"workspaceContains:**/*.php"}
+[2018-03-16 23:36:40.581] [exthost1] [info] ExtensionService#loadCommonJSModule /home/kaijuchin/.vscode/extensions/felixfbecker.php-intellisense-2.2.9/out/extension
+[2018-03-16 23:36:40.673] [exthost1] [info] eager extensions activated
+[2018-03-16 23:36:46.307] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-03-16 23:36:46.307] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/out/extension
+[2018-03-16 23:36:46.321] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-03-16 23:36:46.321] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json/client/out/jsonMain

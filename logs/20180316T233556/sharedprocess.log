@@ -1,0 +1,31 @@
+[2018-03-16 23:35:57.543] [sharedprocess] [info] main {"machineId":"a6b062569d0e92aae809990f770216f7e32e9dc2b25b71e3bbcc2b9621ea3775"}
+[2018-03-16 23:35:57.604] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-16 23:35:57.671] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-16 23:35:59.620] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-16 23:35:59.621] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-16 23:35:59.627] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-16 23:35:59.732] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-16 23:35:59.737] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-16 23:36:02.125] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-16 23:36:19.052] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-16 23:36:19.088] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-16 23:36:19.847] [sharedprocess] [info] Installing extension: sublime-keybindings
+[2018-03-16 23:36:22.830] [sharedprocess] [info] Downloaded extension: sublime-keybindings
+[2018-03-16 23:36:22.855] [sharedprocess] [info] Extracted extension to /home/kaijuchin/.vscode/extensions/ms-vscode.sublime-keybindings-3.0.3: ms-vscode.sublime-keybindings-3.0.3
+[2018-03-16 23:36:22.900] [sharedprocess] [info] Updated metadata of the extension: ms-vscode.sublime-keybindings-3.0.3
+[2018-03-16 23:36:22.901] [sharedprocess] [info] Extensions installed successfully: ms-vscode.sublime-keybindings
+[2018-03-16 23:36:24.366] [sharedprocess] [info] Scanned user extensions: 3
+[2018-03-16 23:36:24.368] [sharedprocess] [info] Scanned user extensions: 3
+[2018-03-16 23:36:24.374] [sharedprocess] [info] Scanned user extensions: 3
+[2018-03-16 23:36:24.392] [sharedprocess] [info] Scanned user extensions: 3
+[2018-03-16 23:36:24.510] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-16 23:36:24.515] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-16 23:36:24.523] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-16 23:36:27.171] [sharedprocess] [info] Scanned user extensions: 3
+[2018-03-16 23:36:37.555] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-03-16 23:36:39.419] [sharedprocess] [info] Scanned user extensions: 3
+[2018-03-16 23:36:39.421] [sharedprocess] [info] Scanned user extensions: 3
+[2018-03-16 23:36:39.428] [sharedprocess] [info] Scanned user extensions: 3
+[2018-03-16 23:36:39.530] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-16 23:36:39.538] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-16 23:36:42.002] [sharedprocess] [info] Scanned user extensions: 3

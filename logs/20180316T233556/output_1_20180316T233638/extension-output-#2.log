@@ -1,0 +1,197 @@
+[Info  - 23:36:41] 4951 files total
+[Info  - 23:36:41] Indexing project for definitions and static references
+Parsing file:///home/kaijuchin/Code/Laravel/server.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/session.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/broadcasting.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/services.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/cache.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/filesystems.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/database.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/auth.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/queue.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/mail.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/app.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/view.php
+Parsing file:///home/kaijuchin/Code/Laravel/routes/channels.php
+Parsing file:///home/kaijuchin/Code/Laravel/routes/console.php
+Parsing file:///home/kaijuchin/Code/Laravel/routes/api.php
+Parsing file:///home/kaijuchin/Code/Laravel/routes/web.php
+Parsing file:///home/kaijuchin/Code/Laravel/database/seeds/DatabaseSeeder.php
+Parsing file:///home/kaijuchin/Code/Laravel/database/factories/UserFactory.php
+Parsing file:///home/kaijuchin/Code/Laravel/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///home/kaijuchin/Code/Laravel/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/composer/autoload_psr4.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/composer/autoload_static.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/composer/autoload_files.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/composer/ClassLoader.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/composer/autoload_namespaces.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/composer/autoload_real.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/composer/autoload_classmap.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/autoload.php
+Parsing file:///home/kaijuchin/Code/Laravel/resources/lang/en/pagination.php
+Parsing file:///home/kaijuchin/Code/Laravel/resources/lang/en/auth.php
+Parsing file:///home/kaijuchin/Code/Laravel/resources/lang/en/validation.php
+Parsing file:///home/kaijuchin/Code/Laravel/resources/lang/en/passwords.php
+Parsing file:///home/kaijuchin/Code/Laravel/resources/views/welcome.blade.php
+Parsing file:///home/kaijuchin/Code/Laravel/public/index.php
+Parsing file:///home/kaijuchin/Code/Laravel/storage/framework/views/dff2bf81ae56d54dae3ebc4334b5f49ca754ffbe.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Console/Kernel.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Exceptions/Handler.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Providers/BroadcastServiceProvider.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Providers/EventServiceProvider.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Providers/RouteServiceProvider.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Providers/AuthServiceProvider.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Providers/AppServiceProvider.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Middleware/TrimStrings.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Middleware/TrustProxies.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Middleware/EncryptCookies.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Controllers/Controller.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Controllers/Auth/ResetPasswordController.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Controllers/Auth/RegisterController.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Controllers/Auth/ForgotPasswordController.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Controllers/Auth/LoginController.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Kernel.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/User.php
+Parsing file:///home/kaijuchin/Code/Laravel/bootstrap/cache/services.php
+Parsing file:///home/kaijuchin/Code/Laravel/bootstrap/cache/packages.php
+Parsing file:///home/kaijuchin/Code/Laravel/bootstrap/app.php
+Parsing file:///home/kaijuchin/Code/Laravel/tests/Feature/ExampleTest.php
+Parsing file:///home/kaijuchin/Code/Laravel/tests/Unit/ExampleTest.php
+Parsing file:///home/kaijuchin/Code/Laravel/tests/TestCase.php
+Parsing file:///home/kaijuchin/Code/Laravel/tests/CreatesApplication.php
+[Info  - 23:36:42] Indexing project for dynamic references
+Parsing file:///home/kaijuchin/Code/Laravel/server.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/session.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/broadcasting.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/services.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/cache.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/filesystems.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/database.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/auth.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/queue.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/mail.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/app.php
+Parsing file:///home/kaijuchin/Code/Laravel/config/view.php
+Parsing file:///home/kaijuchin/Code/Laravel/routes/channels.php
+Parsing file:///home/kaijuchin/Code/Laravel/routes/console.php
+Parsing file:///home/kaijuchin/Code/Laravel/routes/api.php
+Parsing file:///home/kaijuchin/Code/Laravel/routes/web.php
+Parsing file:///home/kaijuchin/Code/Laravel/database/seeds/DatabaseSeeder.php
+Parsing file:///home/kaijuchin/Code/Laravel/database/factories/UserFactory.php
+Parsing file:///home/kaijuchin/Code/Laravel/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///home/kaijuchin/Code/Laravel/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/composer/autoload_psr4.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/composer/autoload_static.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/composer/autoload_files.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/composer/ClassLoader.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/composer/autoload_namespaces.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/composer/autoload_real.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/composer/autoload_classmap.php
+Parsing file:///home/kaijuchin/Code/Laravel/vendor/autoload.php
+Parsing file:///home/kaijuchin/Code/Laravel/resources/lang/en/pagination.php
+Parsing file:///home/kaijuchin/Code/Laravel/resources/lang/en/auth.php
+Parsing file:///home/kaijuchin/Code/Laravel/resources/lang/en/validation.php
+Parsing file:///home/kaijuchin/Code/Laravel/resources/lang/en/passwords.php
+Parsing file:///home/kaijuchin/Code/Laravel/resources/views/welcome.blade.php
+Parsing file:///home/kaijuchin/Code/Laravel/public/index.php
+Parsing file:///home/kaijuchin/Code/Laravel/storage/framework/views/dff2bf81ae56d54dae3ebc4334b5f49ca754ffbe.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Console/Kernel.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Exceptions/Handler.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Providers/BroadcastServiceProvider.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Providers/EventServiceProvider.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Providers/RouteServiceProvider.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Providers/AuthServiceProvider.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Providers/AppServiceProvider.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Middleware/TrimStrings.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Middleware/TrustProxies.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Middleware/EncryptCookies.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Controllers/Controller.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Controllers/Auth/ResetPasswordController.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Controllers/Auth/RegisterController.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Controllers/Auth/ForgotPasswordController.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Controllers/Auth/LoginController.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/Http/Kernel.php
+Parsing file:///home/kaijuchin/Code/Laravel/app/User.php
+Parsing file:///home/kaijuchin/Code/Laravel/bootstrap/cache/services.php
+Parsing file:///home/kaijuchin/Code/Laravel/bootstrap/cache/packages.php
+Parsing file:///home/kaijuchin/Code/Laravel/bootstrap/app.php
+Parsing file:///home/kaijuchin/Code/Laravel/tests/Feature/ExampleTest.php
+Parsing file:///home/kaijuchin/Code/Laravel/tests/Unit/ExampleTest.php
+Parsing file:///home/kaijuchin/Code/Laravel/tests/TestCase.php
+Parsing file:///home/kaijuchin/Code/Laravel/tests/CreatesApplication.php
+[Info  - 23:36:42] 70 Packages
+[Info  - 23:36:42] Restored league/flysystem:1.0.43 from cache
+[Info  - 23:36:42] Restored mockery/mockery:1.0 from cache
+[Info  - 23:36:42] Restored jakub-onderka/php-console-highlighter:0.3.2 from cache
+[Info  - 23:36:42] Restored jakub-onderka/php-console-color:0.1 from cache
+[Info  - 23:36:42] Restored phar-io/version:1.0.1 from cache
+[Info  - 23:36:42] Restored phar-io/manifest:1.0.1 from cache
+[Info  - 23:36:42] Restored psy/psysh:0.8.17 from cache
+[Info  - 23:36:42] Restored vlucas/phpdotenv:2.4.0 from cache
+[Info  - 23:36:42] Restored filp/whoops:2.1.14 from cache
+[Info  - 23:36:42] Restored theseer/tokenizer:1.1.0 from cache
+[Info  - 23:36:42] Restored dnoegel/php-xdg-base-dir:0.1 from cache
+[Info  - 23:36:42] Restored webmozart/assert:1.3.0 from cache
+[Info  - 23:36:42] Restored myclabs/deep-copy:1.7.0 from cache
+[Info  - 23:36:42] Restored symfony/debug:3.4.6 from cache
+[Info  - 23:36:42] Restored symfony/finder:3.4.6 from cache
+[Info  - 23:36:42] Restored symfony/polyfill-php70:1.7.0 from cache
+[Info  - 23:36:42] Restored symfony/process:3.4.6 from cache
+[Info  - 23:36:42] Restored symfony/var-dumper:3.4.6 from cache
+[Info  - 23:36:42] Restored symfony/http-kernel:3.4.6 from cache
+[Info  - 23:36:43] Restored symfony/event-dispatcher:4.0.6 from cache
+[Info  - 23:36:43] Restored symfony/routing:3.4.6 from cache
+[Info  - 23:36:43] Restored symfony/console:3.4.6 from cache
+[Info  - 23:36:43] Restored symfony/css-selector:4.0.6 from cache
+[Info  - 23:36:43] Restored symfony/thanks:1.0.7 from cache
+[Info  - 23:36:43] Restored symfony/translation:4.0.6 from cache
+[Info  - 23:36:43] Restored symfony/http-foundation:3.4.6 from cache
+[Info  - 23:36:43] Restored symfony/polyfill-mbstring:1.7.0 from cache
+[Info  - 23:36:43] Restored laravel/tinker:1.0.5 from cache
+[Info  - 23:36:43] Restored laravel/framework:5.5.39 from cache
+[Info  - 23:36:43] Restored egulias/email-validator:2.1.3 from cache
+[Info  - 23:36:43] Restored fideloper/proxy:3.3.4 from cache
+[Info  - 23:36:43] Restored doctrine/lexer:1.0.1 from cache
+[Info  - 23:36:43] Restored doctrine/instantiator:1.1.0 from cache
+[Info  - 23:36:43] Restored doctrine/inflector:1.3.0 from cache
+[Info  - 23:36:43] Restored phpunit/php-code-coverage:5.3.0 from cache
+[Info  - 23:36:43] Restored phpunit/php-timer:1.0.9 from cache
+[Info  - 23:36:43] Restored phpunit/php-file-iterator:1.4.5 from cache
+[Info  - 23:36:43] Restored phpunit/phpunit-mock-objects:5.0.6 from cache
+[Info  - 23:36:43] Restored phpunit/php-text-template:1.2.1 from cache
+[Info  - 23:36:43] Restored phpunit/phpunit:6.5.7 from cache
+[Info  - 23:36:43] Restored phpunit/php-token-stream:2.0.2 from cache
+[Info  - 23:36:43] Restored hamcrest/hamcrest-php:2.0.0 from cache
+[Info  - 23:36:43] Restored nikic/php-parser:3.1.5 from cache
+[Info  - 23:36:43] Restored mtdowling/cron-expression:1.2.1 from cache
+[Info  - 23:36:43] Restored tijsverkoyen/css-to-inline-styles:2.2.1 from cache
+[Info  - 23:36:43] Restored erusev/parsedown:1.7.1 from cache
+[Info  - 23:36:43] Restored ramsey/uuid:3.7.3 from cache
+[Info  - 23:36:43] Restored paragonie/random_compat:2.0.11 from cache
+[Info  - 23:36:43] Restored nesbot/carbon:1.24.2 from cache
+[Info  - 23:36:43] Restored phpdocumentor/reflection-common:1.0.1 from cache
+[Info  - 23:36:43] Restored phpdocumentor/reflection-docblock:4.3.0 from cache
+[Info  - 23:36:43] Restored phpdocumentor/type-resolver:0.4.0 from cache
+[Info  - 23:36:44] Restored phpspec/prophecy:1.7.5 from cache
+[Info  - 23:36:44] Restored swiftmailer/swiftmailer:6.0.2 from cache
+[Info  - 23:36:44] Restored monolog/monolog:1.23.0 from cache
+[Info  - 23:36:44] Restored psr/container:1.0.0 from cache
+[Info  - 23:36:44] Restored psr/log:1.0.2 from cache
+[Info  - 23:36:44] Restored psr/simple-cache:1.0.1 from cache
+[Info  - 23:36:44] Restored sebastian/code-unit-reverse-lookup:1.0.1 from cache
+[Info  - 23:36:44] Restored sebastian/environment:3.1.0 from cache
+[Info  - 23:36:44] Restored sebastian/version:2.0.1 from cache
+[Info  - 23:36:44] Restored sebastian/resource-operations:1.0.0 from cache
+[Info  - 23:36:44] Restored sebastian/comparator:2.1.3 from cache
+[Info  - 23:36:44] Restored sebastian/global-state:2.0.0 from cache
+[Info  - 23:36:44] Restored sebastian/object-enumerator:3.0.3 from cache
+[Info  - 23:36:44] Restored sebastian/object-reflector:1.1.1 from cache
+[Info  - 23:36:44] Restored sebastian/diff:2.0.1 from cache
+[Info  - 23:36:44] Restored sebastian/exporter:3.1.0 from cache
+[Info  - 23:36:44] Restored sebastian/recursion-context:3.0.0 from cache
+[Info  - 23:36:44] Restored fzaninotto/faker:1.7.1 from cache
+[Info  - 23:36:44] All 4951 PHP files parsed in 2 seconds. 370 MiB allocated.
